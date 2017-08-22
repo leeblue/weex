@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 now second!
+here add content!
+>>>>>>> test
 
 # weex
 weex联合项目
