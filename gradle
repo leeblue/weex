@@ -1,0 +1,5 @@
+记录一下gradle的基本命令：
+assemble+debug or release :进行debug打包或者 release打包
+clean ：清空控制台
+check ：进行lint编译
+build :同时进行assemble + check 命令
